@@ -44,4 +44,6 @@ def sum_array(array)
   end
 end
 
-def 
+def add_s(array)
+  
+end
